@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/c9/06/e9/c906e9f39995f859bbbf47087928341d.png)
 <h1 align="center">Hi 👋, I'm Mateusz Grzelec</h1>
-<h3 align="center">A passionate, self-taught Front End developer, based in Wrocław, Poland.</h3>
+<h3 align="center">A passionate, Front End developer, based in Wrocław, Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattfvndev&label=Profile%20views&color=0e75b6&style=flat" alt="mattfvndev" /> </p>
 
