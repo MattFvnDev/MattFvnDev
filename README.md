@@ -6,7 +6,7 @@
 
 - 📖 I’m currently learning **React.js and Next.js**
 
-- 📫 How to reach me **m.grzelec93@gmail.com**
+- 📫 How to reach me **mateuszgrzelecjob@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
